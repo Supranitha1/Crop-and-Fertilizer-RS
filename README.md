@@ -1,2 +1,2 @@
 # Week-1
-It is a crop and fertilizer recommendation system using ML
+It is a Crop and Fertilizer Recommendation System using ML
